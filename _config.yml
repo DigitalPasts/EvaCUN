@@ -23,8 +23,8 @@ email: digpasts@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Evaluation of Natural Language Processing (NLP) tools
   for the Akkadian language
-baseurl: /EvaCun1 # the subpath of your site, e.g. /blog
-url: https://chendwend.github.io # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: /EvaCUN # the subpath of your site, e.g. /blog
+url: https://digitalpasts.github.io # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 #theme: minima
