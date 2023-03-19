@@ -29,12 +29,12 @@ following way:
 
 # How to submit
 Before you submit, please run your scores files through a validation script, which we
-will provide later. You should use it along with BLEU.  
+will provide later. You should use it along with `BLEU`.  
 You can make up to 2 submissions per language pair, per team.
 
 # Writing the Technical Report
 
-Papers should not be longer than 4 pages of content (for references, unlimited number of
+Papers should **not be longer than 4 pages** of content (for references, unlimited number of
 pages is allowed). The papers must follow the [MT Summit 2023 style guides](https://www.overleaf.com/latex/templates/mt-summit-2023-
 template/knrrcnxhkqxd) (PDF version,
 LaTeX version, MS Word version, and Overleaf
