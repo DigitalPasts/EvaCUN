@@ -21,5 +21,3 @@ Co-operated with [ALT2023](https://github.com/GoThereGit/ALT), Macau SAR, China 
 - Tech report submission: June 15, 2023
 - Notification of acceptance: June 25, 2023
 - Camera Ready submission: 10 July 2023
-
-<p class="last-edit">Last update: 18 Mar 2023.</p>

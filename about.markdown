@@ -36,5 +36,3 @@ translation for ancient languages.
 EvaCun 2023 is organized by the Archaeological
 department in Ariel University and the TAD Center for AI and Data Science at Tel-Aviv
 University, Israel.
-
-<p class="last-edit">Last update: 18 Mar 2023.</p>
