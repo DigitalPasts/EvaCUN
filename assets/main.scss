@@ -1,0 +1,10 @@
+// Use grey background for code
+pre, code, .highlighter-rouge .highlight { background-color: #f8f8f8; }
+
+.site-title::before {
+	content: url("/assets/favicon-32x32.png");
+	display: inline-block;
+	position: relative;
+	width: 32px;
+	top: 32px;
+}
