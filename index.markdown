@@ -6,9 +6,10 @@ layout: home
 permalink: /
 ---
 
-<font size = "10"> <center>EvaCun: <br>
+<font size = "8"> <center>EvaCun: <br>
 Evaluation of Natural Language Processing tools for the Akkadian Language</center> </font> 
-<font size = "8"> <center> Machine Translation task </center> </font>
+
+<font size = "5"> <center> Machine Translation task </center> </font>
 
 ____
 Co-operated with [ALT2023](https://github.com/GoThereGit/ALT), Macau SAR, China on Sep 4, 2023, [MT-SUMMIT2023](https://mtsummit2023.scimeeting.cn/en/web/index/)
