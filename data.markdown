@@ -3,6 +3,8 @@ layout: page
 title: Data
 permalink: /Data/
 ---
+___
+
 For the **Akkadian part** we used the following corpora from the Open Richley Annotated Cuneiform Corpus [ORACC](http://oracc.museum.upenn.edu/), which include transliterations and their equivalent English translations: RINAP, RIAo, RIBO, SAAo and Suhu (for more information on these projects see [here](http://oracc.museum.upenn.edu/armep/)). Chronologically, the great majority of the texts are Neo-Assyrian (NA) and the best attested genres are the royal inscriptions (2,997) and administrative letters (2,003). Nevertheless, the chosen corpus represents a variety of genres. For the transcription to English we used 56,160 sentences, where we treat each sentence as an independent example for training. We call them in these guidelines “sentences”, even if they are made up of a single word, a group of words, a phrase or a group of phrases. This is mostly because cuneiform does not have punctuation that separates sentences like modern languages do. The shortest sentences in the cuneiform unicode dataset, for example, are made up of three characters, while the longest is 237 characters long. The median, 118 characters, is considered a medium length sentence. This is relevant because the length of a sentence could affect the performance of the Machine Translation model.  
 For the **Sumerian** part we used a corpus from the *Cuneiform Digital Library Initiative* (CDLI) and of a neural network-based encode-decoder architecture for English-Sumerian and Sumerian-English. The Sumerian data is only available in transliterated form. The project carries out English<-->Sumerian Translation using a parallel corpus of about 20K sentences for both languages as the parallel corpora.
 

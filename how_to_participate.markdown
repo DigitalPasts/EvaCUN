@@ -3,6 +3,7 @@ layout: page
 title: How to Participate
 permalink: /How_to_Participate/
 ---
+___
 ## Registration
 If you would like to participate in this shared task, please fill out the [registration form](https://forms.gle/F5ScCQr7UnBPt5dG6) and ensure that your information is correct and your email is able to receive messages. Once we receive your registration information,
 we will send the training data to your email address. Please check your email regularly.

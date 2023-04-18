@@ -3,7 +3,7 @@ layout: page
 title: About
 permalink: /Home/
 ---
-
+___
 Sumerian and Akkadian were written using the cuneiform writing system. It is a logo-syllabic script, written mostly by impressing wedge-like shapes on clay tablets. Cuneiform was also written on other preserved media, such as stone monuments and metal objects.  
 
 Sumerian is the first recorded written language, spoken from around the fourth millennium BCE (perhaps before) to the early second millennium BCE. However, it remained a scholarly language studied, copied and taught as part of the cuneiform writing tradition that died out around the first two centuries of the common era. Sumerian is an isolate language that cannot be ascribed to any of the known language families.  
