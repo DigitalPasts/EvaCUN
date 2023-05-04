@@ -17,10 +17,10 @@ Co-operated with [ALT2023](https://github.com/GoThereGit/ALT), Macau SAR, China 
   
 # Important dates
 
-- Registration for the shared task: 15 Feb, 2023 ~ 25 March, 2023
-- Training data release: April 1, 2023
-- Test data release: June 1, 2023
-- Data submission : June 7, 2023
-- Tech report submission: June 15, 2023
-- Notification of acceptance: June 25, 2023
-- Camera Ready submission: 10 July 2023
+- Registration for the shared task: 15 Feb, 2023 ~ 21 June, 2023
+- Training data release: May 15, 2023
+- Test data release: June 15, 2023
+- Data submission : June 22, 2023
+- Tech report submission: June 29, 2023
+- Notification of acceptance: July 10, 2023
+- Camera Ready submission: 24 July 2023
