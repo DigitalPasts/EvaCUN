@@ -19,5 +19,4 @@ comparable, and reproducible `BLEU` scores.
 
 ## Baselines
 
-We will use the results of the NMT from the paper “Translating Akkadian to English with Neural
-Machine Translation” (in press PNAS Nexus) as baseline.  Its code and supplementary information is available [here](https://github.com/gaigutherz/Akkademia) and [here](https://github.com/DigitalPasts/AkkadiantoEnglish_NMT_SI).
+We will use the results of the NMT from the paper ["Translating Akkadian to English with Neural Machine Translation"](https://doi.org/10.1093/pnasnexus/pgad096) (in press PNAS Nexus) as baseline.  Its code and supplementary information is available [here](https://github.com/gaigutherz/Akkademia) and [here](https://github.com/DigitalPasts/AkkadiantoEnglish_NMT_SI).
