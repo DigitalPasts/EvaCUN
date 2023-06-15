@@ -35,3 +35,11 @@ We pooled all corpora together and partitioned them in the following manner: 90%
 
 **Akkadian**  
 [Training_data_Akkadian.zip](/data/Training_data_Akkadian.zip)  
+
+## Test Data
+
+**Sumerian**  
+[Test_data_Sumerian.zip](/data/Test_data_Sumerian.zip)  
+
+**Akkadian**  
+[Test_data_Akkadian.zip](/data/Test_data_Akkadian.zip)
