@@ -7,20 +7,20 @@ permalink: /
 ---
 <center><p style = "font-family:georgia,garamond,serif;font-size:65px"> <b>EvaCun </b> <br></p>
 <font size = "6"><p style = "font-family:georgia,garamond,serif;">
-Evaluation of Natural Language Processing tools for the Akkadian Language </p>  </font> </center>
+Evaluation of Natural Language Processing tools for the Cuneiform Languages </p>  </font> </center>
 
 
-<font size = "4"> <center> Machine Translation task </center> </font>
+<font size = "4"> <center> Analyzing Ancient Cuneiform Languages with Large Language Models (LLMs) task </center> </font>
 
 ____
-Co-operated with [ALT2023](https://github.com/GoThereGit/ALT), Macau SAR, China on Sep 4, 2023, [MT-SUMMIT2023](https://mtsummit2023.scimeeting.cn/en/web/index/)
+Co-operated with TBD, 2025
   
 # Important dates
 
-- Registration for the shared task: 15 Feb, 2023 ~ 21 June, 2023
-- Training data release: May 17, 2023
-- Test data release: June 15, 2023
-- Data submission : June 22, 2023
-- Tech report submission: June 29, 2023
-- Notification of acceptance: July 10, 2023
-- Camera Ready submission: 24 July 2023
+- Registration for the shared task: TBD
+- Training data release: TBD
+- Test data release: TBD
+- Data submission : TBD
+- Tech report submission: TBD
+- Notification of acceptance: TBD
+- Camera Ready submission: TBD
