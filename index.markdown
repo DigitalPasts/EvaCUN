@@ -7,10 +7,11 @@ permalink: /
 ---
 <center><p style = "font-family:georgia,garamond,serif;font-size:65px"> <b>EvaCun </b> <br></p>
 <font size = "6"><p style = "font-family:georgia,garamond,serif;">
-Evaluation of Natural Language Processing tools for the Cuneiform Languages </p>  </font> </center>
+Evaluation of Natural Language Processing tools for Ancient Cuneiform Languages </p>  </font> </center>
 
 
-<font size = "4"> <center> Analyzing Ancient Cuneiform Languages with Large Language Models (LLMs) task </center> </font>
+<font size = "4"> <center> Analyzing Cuneiform Languages with Large Language Models (LLMs) task </center> </font>
+<font size = "4"> <center> Including but not limited to Sumerian, Akkadian, Elamite, Hittite, Hurrian and others </center> </font>
 
 ____
 Co-operated with TBD, 2025
