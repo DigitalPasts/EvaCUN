@@ -20,7 +20,6 @@ Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
 
 - Registration for the shared task (Training Data Release): Dec. 30, 2024
 - Test data release: Feb. 7, 2025
-- Data submission : TBD
 - Running Results Submission: Feb. 15, 2025
 - Tech report submission: Feb. 20, 2025
 - Notification of acceptance: Feb. 27, 2025
