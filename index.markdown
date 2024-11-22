@@ -15,6 +15,11 @@ Evaluation of Natural Language Processing tools for Ancient Cuneiform Languages 
 
 ____
 Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
+
+# EvaCun 2025 Task
+
+* EvaCun 2025 is the second International Evaluation of Ancient Cuneiform Languages, focusing on **lemmatization and text restoration** using large language models in ancient Akkadian and Sumerian.
+* EvaCun 2025 is organized by Shai Gordin, Stav Klein, Emma Yavasan, and Shahar Spencer.
   
 # Important dates
 
@@ -24,3 +29,6 @@ Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
 - Tech report submission deadline: Feburary 28, 2025
 - Notification of acceptance: March 5, 2025
 - Camera-ready papers due: March 15, 2025
+
+# Sponsorships
+EvaCun 2025 is sponsored by the electronic Babylonian Library (eBL) headed by Enrique Jiménez (LMU Munich).
