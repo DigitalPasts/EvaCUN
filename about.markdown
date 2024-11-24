@@ -10,29 +10,15 @@ Sumerian is the first recorded written language, spoken from around the fourth m
 
 Akkadian is the earliest attested Semitic language, belonging specifically to the East Semitic branch. It is attested in writing from c. 2,700 BCE until the end of cuneiform writing. It was a spoken language for most of this period, until it was gradually replaced by Aramaic in the first millennium BCE. During the second millennium BCE, Akkadian was the *lingua franca* of the ancient Near East, in use from Iran to Anatolia, from Syria to Egypt. As such, significant amounts of cuneiform tablets written in Akkadian and Sumerian were discovered outside of Mesopotamia during this time, within the context of cuneiform traditions of other languages.  
 
-The **Machine Translation (MT)** task of Akkadian and Sumerian documents is crucial to advance the understanding of the events described in the tablets as well as the scholarly field altogether. However, since they are low-resource languages, the existing corpora of texts consists of a relatively limited amount of data, and research on multilingual models offers only minor improvements on LM/MLM tasks, let alone MT tasks can hardly be addressed. For that matter, we wish to utilize a platform which can facilitate reading and interpretation of Akkadian and Sumerian texts by leveraging the power of high-resource languages like English, and to some extent Hebrew (that is not considered high resource, but has significantly bigger datasets compared to Akkadian and keeps on growing).  
+The **lemmatization and text restoration** task of Akkadian and Sumerian documents using Large Language Models (LLMs) is crucial to advance computational text analysis, and create linguistic resources like treebanks and word embeddings. However, since cuneiform languages are low-resource languages, the existing corpora of texts consists of a relatively limited amount of data for each historical period of cuneiform, which is moreover divided into different geographical areas and text genres.[^1] Existing lemmatizers have relied mostly on first millennium BCE Assyrian and Babylonian archival and royal texts, and the fragmentary nature of many cuneiform tablets, as well as lexical homonymy in Akkadian and Sumerian, makes the creation of new computational linguistic resources challenging.  
 
-**EvaCun 2023** consisted of three machine translation tasks – Akkadian (in cuneiform) to English, Akkadian (transcription) to English and Sumerian (transcription) to English, based on the corpora of royal, administrative, and financial texts we provide. Shared data and several scorers are provided to the participants. The organizers rely on the honesty of all participants who might have some prior knowledge of part of the data that will be used for evaluation. Unfairly use of such knowledge is not permitted in the shared task.  
+**EvaCun 2025** consisted of the following tasks _TBD_ based on the corpora of _TBD_ first millennium BCE literary and scientific texts and early second millennium BCE texts we provide. Shared data and several scorers are provided to the participants. The organizers rely on the honesty of all participants who might have some prior knowledge of part of the data that will be used for evaluation. Unfairly use of such knowledge is not permitted in the shared task.  
 
 The **shared task** is designed with the aim of answering three main questions:
-- How can we make machine translation techniques show the best performance on Akkadian in both the cuneiform and the transcription modalities?
-- How can we promote the development of resources and language technologies for Akkadian and Sumerian?
-- How can we foster collaboration among scholars working on Akkadian and Sumerian and attract researchers from different disciplines?  
+- Can LLMs show the best performance in lemmitaztion and restoration tasks for Akkadian and Sumerian, both from cuneiform and the transliteration modalities?
+- How can we use LLMs to promote the development of resources and language technologies for Cuneiform languages?
+- How can we use LLMs to foster collaboration between cuneiform scholars and researchers from different disciplines?  
 
-EvaCun 2023 is co-organized with ALT 2023: “Ancient Language Translation Workshop”, Macau SAR, China on Sep 4, 2023. As a co-located event with [MT-SUMMIT2023](https://mtsummit2023.scimeeting.cn/en/web/index/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of machine translation for ancient languages. EvaCun 2023 is organized by the [Digital Pasts lab](https://digitalpasts.github.io/) at Ariel University and the TAD Center for AI and Data Science at Tel-Aviv University, Israel.
+EvaCun 2025 is co-organized with ALP 2025, Albuquerque, New Mexico, US from April 29 to May 4, 2025. As a co-located event with [NAACL 2025](https://2025.naacl.org/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of ancient languages processing. EvaCun 2025 is organized by the [Digital Pasts lab](https://digitalpasts.github.io/) at Ariel University and the TAD Center for AI and Data Science at Tel-Aviv University, Israel.
 
-
-
-
-
-
-
-EvaCun 2023 is co-organized with ALT 2023: “Ancient Language Translation Workshop”,
-Macau SAR, China on Sep 4, 2023. As a co-located event with [MT-SUMMIT2023](https://mtsummit2023.scimeeting.cn/en/web/index/),
-this workshop will provide an
-opportunity to learn about the challenges and latest developments in the field of machine
-translation for ancient languages.  
-
-EvaCun 2023 is organized by the Archaeological
-department in Ariel University and the TAD Center for AI and Data Science at Tel-Aviv
-University, Israel.
+[^1]: For a good textual and linguistic overview of Akkadian and its periodization, for example, see Vita, J.-P. (Ed.). (2021). _History of the Akkadian language_. Brill. https://doi.org/10.1163/9789004445215
