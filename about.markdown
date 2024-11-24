@@ -19,6 +19,7 @@ The **shared task** is designed with the aim of answering three main questions:
 - How can we use LLMs to promote the development of resources and language technologies for Cuneiform languages?
 - How can we use LLMs to foster collaboration between cuneiform scholars and researchers from different disciplines?  
 
-EvaCun 2025 is co-organized with ALP 2025, Albuquerque, New Mexico, US from April 29 to May 4, 2025. As a co-located event with [NAACL 2025](https://2025.naacl.org/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of ancient languages processing. EvaCun 2025 is organized by the [Digital Pasts lab](https://digitalpasts.github.io/) at Ariel University and the TAD Center for AI and Data Science at Tel-Aviv University, Israel.
+EvaCun 2025 is co-organized with [ALP 2025](https://www.ancientnlp.com/alp2025/), Albuquerque, New Mexico, US from April 29 to May 4, 2025. As a co-located event with [NAACL 2025](https://2025.naacl.org/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of ancient languages processing. EvaCun 2025 is organized by the [Digital Pasts lab](https://digitalpasts.github.io/) at Ariel University and the TAD Center for AI and Data Science at Tel-Aviv University, Israel.
 
+---
 [^1]: For a good textual and linguistic overview of Akkadian and its periodization, for example, see Vita, J.-P. (Ed.). (2021). _History of the Akkadian language_. Brill. https://doi.org/10.1163/9789004445215
