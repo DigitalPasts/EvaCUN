@@ -57,9 +57,9 @@ minima:
 
 header_pages: 
 - about.markdown
-# - task.markdown
+- task.markdown
 # - how_to_participate.markdown
-# - data.markdown
+- data.markdown
 # - evaluation.markdown
 # - Resources.markdown
 # - Organizers.markdown
