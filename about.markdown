@@ -1,7 +1,7 @@
 ---
 layout: page
 title: About
-permalink: /Home/
+permalink: /About/
 ---
 ___
 The cuneiform writing system is a logo-syllabic script, written mostly by impressing wedge-like shapes on clay tablets. Cuneiform was also written on other preserved media, such as stone monuments and metal objects.  
