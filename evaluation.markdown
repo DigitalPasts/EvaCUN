@@ -6,17 +6,40 @@ permalink: /Evaluation/
 ___
 ## Metrics
 
-We will evaluate the performance of `cuneiform/transcription/Sumerian-to-English` machine
-translation model. The scorers employed for EvaCun 2023 are based on `BLEU`.  
+### Evaluation Metrics for the Shared Task
 
-Each participating team will initially have access only to the training data.  
-Later, test data
-containing only cuneiform and transcribed texts will also be released.  
+#### **1. Lemmatization Task**  
+The lemmatization task will be evaluated using the following metrics:
 
-The `BLEU` metrics measure machine translation quality by word-level n-grams. It is a
-modified version of the `sacreBLEU`, which provides hassle-free computation of shareable,
-comparable, and reproducible `BLEU` scores.
+- **Accuracy (Exact Match)**: The percentage of words for which the predicted lemma matches the gold standard lemma exactly. This is the primary metric for evaluating the overall performance of the system.
+  
+$$
+\text{Accuracy} = \frac{\text{Number of Correct Lemma Predictions}}{\text{Total Number of Words}}
+$$
 
-## Baselines
+- **Error Analysis Categories**: Systems will also be evaluated qualitatively by analyzing errors across categories such as:
+  - Homographs: Words with the same form but different meanings or lemmas.
+  - Rare Lemmas: Lemmas that occur infrequently in the dataset.
+  - Morphological Complexity: Cases with challenging inflectional variations.
 
-We will use the results of the NMT from the paper ["Translating Akkadian to English with Neural Machine Translation"](https://doi.org/10.1093/pnasnexus/pgad096) (in press PNAS Nexus) as baseline.  Its code and supplementary information is available [here](https://github.com/gaigutherz/Akkademia) and [here](https://github.com/DigitalPasts/AkkadiantoEnglish_NMT_SI).
+#### **2. Text Completion Task**  
+The evaluation of the text completion task will include a combination of traditional accuracy metrics and perplexity to provide a comprehensive assessment of system performance.
+
+#### **Primary Metrics**
+- **Top-1 Accuracy**: The percentage of placeholders correctly filled with the exact word predicted as the top-ranked choice by the system.
+  
+$$
+\text{Top-1 Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Masked Words}}
+$$
+  
+  This metric measures the practical usability of the system in completing masked words.
+
+#### **Secondary Metrics**
+- **Perplexity**:  
+  Perplexity evaluates how well a probabilistic model predicts masked tokens by measuring the uncertainty in its predictions. Lower perplexity indicates better performance, with the model assigning higher probabilities to the correct completions.
+  
+$$
+\text{Perplexity} = \exp\left(-\frac{1}{N} \sum_{i=1}^{N} \log P(w_i | \text{context})\right)
+$$
+  
+  This metric is critical for assessing probabilistic models' generalization capabilities across different contexts.
