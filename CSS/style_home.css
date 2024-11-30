@@ -75,8 +75,6 @@ section .container:hover .middle {
 }
 
 .footer-logos img {
-    max-width: 5%;         /* Make each logo 15% of the screen width */
+    width: 10vw;         /* Make each logo 15% of the screen width */
     height: auto;           /* Maintain aspect ratio */
-    min-width: 10px;        /* Ensure logos don’t become too small */
-    max-height: 30px;       /* Prevent logos from getting too tall on large screens */
 }
