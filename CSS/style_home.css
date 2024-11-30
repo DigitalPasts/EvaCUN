@@ -70,11 +70,13 @@ section .container:hover .middle {
     display: flex;
     justify-content: center; /* Align logos in a single row */
     align-items: center;    /* Align logos vertically */
-    gap: 20px;              /* Space between logos */
+    gap: 10px;              /* Space between logos */
     margin-top: 20px;       /* Add space above the logos */
 }
 
 .footer-logos img {
-    max-width: 100px;       /* Scale down logos to fit */
+    max-width: 15%;         /* Make each logo 15% of the screen width */
     height: auto;           /* Maintain aspect ratio */
+    min-width: 40px;        /* Ensure logos don’t become too small */
+    max-height: 70px;       /* Prevent logos from getting too tall on large screens */
 }
