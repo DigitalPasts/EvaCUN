@@ -20,6 +20,7 @@ Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
 
 * EvaCun 2025 is the second International Evaluation of Ancient Cuneiform Languages, focusing on **lemmatization and text restoration** using large language models in ancient Akkadian and Sumerian.
 * EvaCun 2025 is organized by Shai Gordin, Stav Klein, Emma Yavasan, and Shahar Spencer.
+* **New in 2025!** cash prizes for first and second best performing teams. 
   
 # Important dates
 
@@ -31,4 +32,6 @@ Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
 - Camera-ready papers due: March 15, 2025
 
 # Sponsorships
-EvaCun 2025 is sponsored by the electronic Babylonian Library (eBL) headed by Enrique Jiménez (LMU Munich).
+EvaCun 2025 is sponsored by the electronic Babylonian Library (eBL) headed by Prof. Enrique Jiménez (LMU Munich), and by the ARCHIBAB project headed by Prof. Dominique Charpin (Collège de France), with the assistance of Dr. Marine Béranger (FU Berlin).
+
+
