@@ -32,7 +32,11 @@ $$
 \text{Top-1 Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Masked Words}}
 $$
   
-  This metric measures the practical usability of the system in completing masked words.
+- **Top-k Accuracy**: this metric evaluates whether the correct word appears within the top k predictions
+
+$$
+\text{Top-}k \, \text{Accuracy} = \frac{\text{Number of Masked Words where the Correct Word is in the Top-}k \, \text{Predictions}}{\text{Total Number of Masked Words}}
+$$
 
 #### **Secondary Metrics**
 - **Perplexity**:  
