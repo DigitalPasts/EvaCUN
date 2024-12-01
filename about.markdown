@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About
-permalink: /About/
+title: Task
+permalink: /Task/
 ---
 ___
 ### What is Cuneiform?
