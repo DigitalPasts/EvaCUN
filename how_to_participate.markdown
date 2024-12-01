@@ -18,7 +18,8 @@ The results should be in a CSV file that is identical in structure to the train 
 
 #### Writing the Technical Report
 Papers should **not be longer than 4 pages** of content (not including references). Each task gets its own technical report.
-To allow blind reviewing, please do not include author names and affiliations within the paper and avoid obvious self-references.  
+To allow blind reviewing, please do not include author names and affiliations within the paper and avoid obvious self-references.
+The technical report should include specific examples for the chosen task and the model's predictions as well as an error analysis section.
 
 **Papers must be submitted according to the submission deadline.**
 
