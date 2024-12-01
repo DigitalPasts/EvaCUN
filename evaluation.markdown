@@ -22,7 +22,7 @@ $$
   - Rare Lemmas: Lemmas that occur infrequently in the dataset.
   - Morphological Complexity: Cases with challenging inflectional variations.
 
-#### **2. Text Completion Task**  
+#### **2. Token Prediction Task**  
 The evaluation of the text completion task will include a combination of traditional accuracy metrics and perplexity to provide a comprehensive assessment of system performance.
 
 #### **Primary Metrics**
@@ -32,10 +32,10 @@ $$
 \text{Top-1 Accuracy} = \frac{\text{Number of Correct Predictions}}{\text{Total Number of Masked Words}}
 $$
   
-- **Top-k Accuracy**: this metric evaluates whether the correct word appears within the top k predictions
+- **Top-3 Accuracy**: this metric evaluates whether the correct word appears within the top k predictions
 
 $$
-\text{Top-}k \, \text{Accuracy} = \frac{\text{Number of Masked Words where the Correct Word is in the Top-}k \, \text{Predictions}}{\text{Total Number of Masked Words}}
+\text{Top-}3 \, \text{Accuracy} = \frac{\text{Number of Masked Words where the Correct Word is in the Top-}3 \, \text{Predictions}}{\text{Total Number of Masked Words}}
 $$
 
 #### **Secondary Metrics**
@@ -47,3 +47,5 @@ $$
 $$
   
   This metric is critical for assessing probabilistic models' generalization capabilities across different contexts.
+
+We will normalize and combine these metrics to get a single score for this task.
