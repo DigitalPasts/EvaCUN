@@ -75,6 +75,6 @@ section .container:hover .middle {
 }
 
 .footer-logos img {
-    width: 10vw;         /* Make each logo 15% of the screen width */
+    width: 6vw;         /* Make each logo 15% of the screen width */
     height: auto;           /* Maintain aspect ratio */
 }
