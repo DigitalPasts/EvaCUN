@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Task
-permalink: /Task/
+permalink: /old-Task/
 ---
 ___
 This shared task focuses on advancing computational approaches to understanding Akkadian, a Semitic language of the ancient Near East. Participants are invited to tackle two challenging tasks designed to test their systems' ability to process and interpret Akkadian texts, which often exhibit unique linguistic complexities.
