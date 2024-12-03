@@ -32,6 +32,15 @@ We encourage participants to harness LLMs to develop cutting-edge solutions to t
 
 It is important to state that while we encourage participants to use LLMs in their solutions, we do NOT expect to train an LLM from scratch for this task, nor it is feasable with this amount of data. Ideally, we want to use existing instruct-based LLMs that can understand queries in English about cuneiform texts (this is challenging).
 
+### FAQ
+**Can we use/add our own data for training?**
+
+No, to avoid data contamiation we request that you'll only work on the data we provide. The data consists of several corpora that we also pre-processed to fit the task so it's important for both training and evaluation not to modify it.
+
+**Can we use instruct-base LLM (such as ChatGPT)?**
+
+Yes, although data contamination holds for these models too, some things are not in our control. However, if you choose to use an instruct-based model make sure to add the conversation entirely (initial prompts, refined prompts, chat-response, etc.) to the technical report as an appendix.
+
 
 ### About the Organizers 
 EvaCun 2025 is co-organized with [ALP 2025](https://www.ancientnlp.com/alp2025/), Albuquerque, New Mexico, US from April 29 to May 4, 2025. As a co-located event with [NAACL 2025](https://2025.naacl.org/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of ancient languages processing. EvaCun 2025 is organized by the [Digital Pasts lab](https://digitalpasts.github.io/) at Ariel University and the TAD Center for AI and Data Science at Tel-Aviv University, Israel, and is sponsored by the electronic Babylonian Library (LMU Munich) and ARCHIBAB (Collège de France) projects. 
