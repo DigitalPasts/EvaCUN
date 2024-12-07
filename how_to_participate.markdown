@@ -30,4 +30,6 @@ The winning team for each task will win **500 Euros**
 
 The first runner-up for each task will win **250 Euros**
 
-To receive the prize groups need to provide details of a single bank account
+To receive the prize groups need to make the code available on Github and provide details of a single bank account.
+
+Winning models will be used by the eBL project.
