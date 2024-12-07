@@ -41,6 +41,9 @@ No, to avoid data contamiation we request that you'll only work on the data we p
 
 Yes, although data contamination holds for these models too, some things are not in our control. However, if you choose to use an instruct-based model make sure to add the conversation entirely (initial prompts, refined prompts, chat-response, etc.) to the technical report as an appendix.
 
+**Can we use Akkadian-based models found online (e.g. on HuggingFace)?**
+
+That depends. Obviously, you can't use someone else's lemmatization model and submit it as your own work. You can use models that were trained on Akkadian for a different task than what you're working on, BUT you'll have to specify in your technical report exactly what they were trained to do, on what data, how successful they were and cite them appropriately. If the model card in HF does not specify this information - you can't use the model.
 
 ### About the Organizers 
 EvaCun 2025 is co-organized with [ALP 2025](https://www.ancientnlp.com/alp2025/), Albuquerque, New Mexico, US from April 29 to May 4, 2025. As a co-located event with [NAACL 2025](https://2025.naacl.org/), this workshop will provide an opportunity to learn about the challenges and latest developments in the field of ancient languages processing. EvaCun 2025 is organized by the [Digital Pasts lab](https://digitalpasts.github.io/) at Ariel University and the TAD Center for AI and Data Science at Tel-Aviv University, Israel, and is sponsored by the electronic Babylonian Library (LMU Munich) and ARCHIBAB (Collège de France) projects. 
