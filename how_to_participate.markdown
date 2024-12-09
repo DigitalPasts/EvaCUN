@@ -32,4 +32,4 @@ The first runner-up for each task will win **250 Euros**
 
 To receive the prize groups need to make the code available on Github and provide details of a single bank account.
 
-Winning models will be used by the eBL project.
+Winning models will be used by the eBL and ARCHIBAB projects.
