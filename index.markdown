@@ -26,9 +26,9 @@ Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
 
 - Registration for participation/Training data release: December 1, 2024 - Janurary 15, 2025
 - Test data release: Feburary 15, 2025
-- Running Results Submission: Feburary 21, 2025
-- Tech report submission deadline: Feburary 28, 2025
-- Notification of acceptance: March 5, 2025
+- Running Results Submission: Feburary 26, 2025
+- Tech report submission deadline: March 03, 2025
+- Notification of acceptance: March 10, 2025
 - Camera-ready papers due: March 15, 2025
 
 # Sponsorships
