@@ -19,7 +19,7 @@ Co-operated with ALP 2025@NAACL 2025, 3-4 April 2025
 # EvaCun 2025 Task
 
 * EvaCun 2025 is the second International Evaluation of Ancient Cuneiform Languages, focusing on **lemmatization and text restoration** using large language models in ancient Akkadian and Sumerian.
-* EvaCun 2025 is organized by Shai Gordin, Stav Klein, Emma Yavasan, and Shahar Spencer.
+* EvaCun 2025 is organized by Shai Gordin, Stav Klein, Emma Yavasan, Shahar Spencer and Aleksi Sahala.
 * **New in 2025!** cash prizes for first and second best performing teams. 
   
 # Important dates
